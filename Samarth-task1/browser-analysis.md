@@ -29,6 +29,8 @@ simple explanation - more the data required, more requests will be made - the nu
 the requests sent for the NeverSSL was mainly just one icon after the DOM was loaded, but for github(36) and youtube(144), requests were made to fetch data from the servers...
 Youtube made the most number of requests(during video streaming) as it loads only required amount of data every time(that is, it doesnt load or download whole video at once but only for the next 10 seconds - this is crucial for fast downloading and changing of video formats during the playback)
 
+3. Performance Analysis:
+
 Total Load time: (indicated in the bottom part of the network tab 'Finish')
 youtube - 9.67s
 neverssl - 2.05s
