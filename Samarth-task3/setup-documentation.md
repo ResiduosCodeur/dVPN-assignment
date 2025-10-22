@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](screenshots/image.png)
 Hardhat 3 successfully installed
 
 All the dependencies (npm list -all)
@@ -103,7 +103,7 @@ All the dependencies (npm list -all)
   │ └── UNMET OPTIONAL DEPENDENCY utf-8-validate@>=5.0.2
   └── zod@3.25.76
 
-![alt text](image-5.png) -> ![alt text](image-4.png)
+![alt text](screenshots/image-5.png) -> ![alt text](screenshots/image-4.png)
 
 Hardhat is like a specialised development environment fopr building, testing and deploying smart contracts - like how library is a environment for studying, hardhat similarly provides flexibility in developing smart contracts.
 
