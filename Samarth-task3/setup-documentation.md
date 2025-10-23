@@ -11,7 +11,7 @@ mocha - primary test runner framework.
 
 ![alt text](screenshots/structure.png)
 
-Hardhat is like a specialised development environment fopr building, testing and deploying smart contracts - like how library is a environment for studying, hardhat similarly provides flexibility in developing smart contracts.
+Hardhat is like a specialised development environment for building, testing and deploying smart contracts - like how library is a environment for studying, hardhat similarly provides flexibility in developing smart contracts.
 
 contracts/ => this is where .sol files are stored and contains core logic for decentralised app. .sol files are basically smart contract source files.
 scripts/ => this folder holds javascript and typescript files, used for deploying smart contracts to local network
