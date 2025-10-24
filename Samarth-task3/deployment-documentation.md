@@ -1,6 +1,6 @@
 // deploy.js code:
 
-const { ethers } = require("hardhat");
+```const { ethers } = require("hardhat");
 
 async function main() {
   // Get the deployer (first account from Hardhat)
@@ -32,7 +32,7 @@ main()
     console.error("❌ Error deploying contract:", error);
     process.exit(1);
   });
-
+```
 successful deployment of deploy.js:
 ![alt text](screenshots/deploy.png)
 
