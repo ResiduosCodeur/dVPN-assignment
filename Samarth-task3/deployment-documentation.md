@@ -1,3 +1,5 @@
+// deploy.js code:
+
 const { ethers } = require("hardhat");
 
 async function main() {

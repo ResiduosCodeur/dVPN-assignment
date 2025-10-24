@@ -1,5 +1,4 @@
-1. Contract Code:
-
+1. // contract code:
 pragma solidity ^0.8.24;
 
 contract DVPNContract {
