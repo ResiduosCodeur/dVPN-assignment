@@ -60,7 +60,7 @@ we can test as much as we want and ETH will be consumed, but after restarting, i
 Contract Interaction:
 
 interact.js code:
-
+```
 // Hardhat uses the 'ethers' module globally.
 const { ethers } = require("hardhat");
 
@@ -130,7 +130,7 @@ main().catch((error) => {
     console.error(error);
     process.exitCode = 1;
 });
-
+```
 greetings screenshot:
 ![alt text](screenshots/greetings.png)
 

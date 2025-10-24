@@ -1,5 +1,5 @@
 1. // contract code:
-pragma solidity ^0.8.24;
+```pragma solidity ^0.8.24;
 
 contract DVPNContract {
      
@@ -67,7 +67,7 @@ contract DVPNContract {
         return deployer;
     }
 }
-
+```
 2. Solidity Basics
 
 Constructor => In C++, constructor is a function defined inside a class (usually the function name same as class name), and it runs as soon as the class is called, the constructor function doesnt need a seperate call, and automatically initiates the class - used for setting up initial values, like after declaring variables, we set them to 0 to be used further...
