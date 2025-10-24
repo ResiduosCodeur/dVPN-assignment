@@ -2,7 +2,7 @@ Green checkmarks:
 ![alt text](screenshots/greencheck.png)
 
 test code:
-const { expect } = require("chai");
+```const { expect } = require("chai");
 
 describe("VPNRegistry Contract", function () {
   let VPNRegistry, vpnRegistry, owner;
@@ -39,7 +39,7 @@ describe("VPNRegistry Contract", function () {
     expect(count).to.equal(42);
   });
 });
-
+```
 2. Basic Understanding:
 
 testing of smart contracts is done so that we can be sure they work properly, as it is not possible afterwards to change them... and it takes money (gas) to deploy them...
